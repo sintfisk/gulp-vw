@@ -1,0 +1,11 @@
+.box{
+  height: 200px;
+  width: 375px;
+  background: red
+}
+html,body{
+  margin: 0;
+  padding: 0;
+  border: red 1px solid;
+  font-size: 14px;
+}
